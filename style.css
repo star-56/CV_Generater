@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(172, 216, 216);
+}
+
+/* #cv-form{
+   display: none;
+} */
+
+#cv-template{
+    display:none;
+}
+
+.myimg {
+    border: 1px;
+  border-radius: 50%;
+  width: 200px
+}
+
+.res {
+    background-color: bisque;
+}
